@@ -6,3 +6,7 @@
 ###### sixth header
 
 ![image random](https://octodex.github.com/images/yaktocat.png)
+
+``` javascript
+var myVar = "Hello, world!";
+```
