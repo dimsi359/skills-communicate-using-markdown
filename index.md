@@ -1,3 +1,8 @@
+- [ ] Turn on github pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+
 # This is a main header
 ## secondary header
 ### third header
@@ -10,3 +15,4 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
